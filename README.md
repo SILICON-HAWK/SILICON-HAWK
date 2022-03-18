@@ -4,7 +4,7 @@
 - :books: I am currently study at vellore institute of technology.
 - :keyboard: I am currently learning c++ , javascript and react
 - 🎮 I also play games 
-- <img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/openSourceInitiative/download.png" width="30" height ="25"> open source is the way
+- <img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/openSourceInitiative/download.png" width="30" height =""> open source is the way
 
 </br>
 </br>
@@ -18,6 +18,8 @@
 
 ## Connect with me
 
+</br>
+
 <a href="https://github.com/SILICON-HAWK">
 <img alt="" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/gamil/gmail-icon-logo-black-and-white.png" width="60" height="">
 </a>
@@ -27,11 +29,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/abhijeet-a-s-0b2218221/">
-<img alt="instagram" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/linkedin/linked%20in%20white.png" width="60" height="">
+<img alt="instagram" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/linkedin/linked%20in%20white.png" width="50" height="">
 </a>
 
 <a href="https://www.instagram.com/abhijeet_81/">
-<img alt="instagram" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/instagram/logo.jpg" width="60" height="">
+<img alt="instagram" src="https://i.pinimg.com/originals/e3/8f/af/e38fafda2ddb4d5ba66b96a0398b9b5f.png" width="60" height="">
 </a>
 
 
