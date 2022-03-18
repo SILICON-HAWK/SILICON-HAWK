@@ -4,7 +4,7 @@
 - :books: I am currently study at vellore institute of technology.
 - :keyboard: I am currently learning c++ , javascript and react
 - 🎮 I also play games 
-- <img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/openSourceInitiative/download.png" width="30" height =""> open source is the way
+- <img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/openSourceInitiative/opensourceinitiative-darkmode.png" width="50" height =""> open source is the way
 
 </br>
 </br>
