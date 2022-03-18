@@ -1,7 +1,6 @@
-### Hi there, myself SILICON-HAWK aka Abhijeet.A.S  
-</br>
+### Hi there, myself SILICON-HAWK aka Abhijeet.A.S
 
-<img align="right" alt="a cat" src="https://c.tenor.com/5MVLghCyBp0AAAAd/hola-cat.gif" width ="100px" />
+<img align="right" alt="a cat" src="https://c.tenor.com/5MVLghCyBp0AAAAd/hola-cat.gif" width ="200px" />
 
 ## I am a student and a future software engineer 
 - :books: I am currently study at vellore institute of technology.
