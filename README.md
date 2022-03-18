@@ -7,10 +7,10 @@
 - <img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/openSourceInitiative/download.png" width="30" height ="25"> open source is the way
 
 ## Connect with me
-<img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/gamil/gmail-icon-logo-black-and-white.png" =30x30>
+<img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/gamil/gmail-icon-logo-black-and-white.png" width="30" height="30">
 
-[![discord](https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/discord/discord%20darkmode%20icon.jpg)](https://discordapp.com/users/597474801992335400)
+[![discord](https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/discord/discord%20darkmode%20icon.jpg width="30" height="30")](https://discordapp.com/users/597474801992335400)
 
-[![linkedIN](https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/linkedin/linked%20in%20white.png)](https://www.linkedin.com/in/abhijeet-a-s-0b2218221/)
+[![linkedIN]<img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/linkedin/linked%20in%20white.png" width ="30" height="30"](https://www.linkedin.com/in/abhijeet-a-s-0b2218221/)
 
 [![instagram](https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/instagram/logo.jpg)](https://www.instagram.com/abhijeet_81/)
