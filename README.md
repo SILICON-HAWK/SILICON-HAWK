@@ -17,10 +17,9 @@
 </a>
 
 <a href="https://www.linkedin.com/in/abhijeet-a-s-0b2218221/">
-<img alt="instagram" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/linkedin/linked%20in%20white.png" width="70" height="100">
+<img alt="instagram" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/linkedin/linked%20in%20white.png" width="60" height="40">
 </a>
 
-
 <a href="https://www.instagram.com/abhijeet_81/">
-<img alt="instagram" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/instagram/logo.jpg" width="40" height="25">
+<img alt="instagram" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/instagram/logo.jpg" width="60" height="40">
 </a>
