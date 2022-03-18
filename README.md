@@ -6,9 +6,15 @@
 - 🎮 I also play games 
 - <img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/openSourceInitiative/download.png" width="30" height ="25"> open source is the way
 
+</br>
+</br>
+
 ## MY GITHUB STATS
 
-<img align="left" alt="SILICON-HAWK github stats" src="https://github-readme-stats-silicon-hawk.vercel.app/api?username=SILICON-HAWK&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="SILICON-HAWK github stats" src="https://vercel.com/silicon-hawk/github-readme-stats/api?username=SILICON-HAWK&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</br>
+</br>
 
 ## Connect with me
 
