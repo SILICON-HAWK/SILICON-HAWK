@@ -7,13 +7,20 @@
 - <img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/openSourceInitiative/download.png" width="30" height ="25"> open source is the way
 
 ## Connect with me
-<img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/gamil/gmail-icon-logo-black-and-white.png" width="30" height="30">
 
-[![discord](https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/discord/discord%20darkmode%20icon.jpg width="30" height="30")](https://discordapp.com/users/597474801992335400)
+<a href="https://github.com/SILICON-HAWK">
+<img alt="" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/gamil/gmail-icon-logo-black-and-white.png" width="60" height="40">
+</a>
 
-[![linkedIN]<img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/linkedin/linked%20in%20white.png" width ="30" height="30"](https://www.linkedin.com/in/abhijeet-a-s-0b2218221/)
+<a href="https://discordapp.com/users/597474801992335400">
+<img alt="discord" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/discord/discord%20darkmode%20icon.jpg" width="50" height="">
+</a>
 
-[![instagram](https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/instagram/logo.jpg)](https://www.instagram.com/abhijeet_81/)
-<a href="https://www.qries.com/">
+<a href="https://www.linkedin.com/in/abhijeet-a-s-0b2218221/">
+<img alt="instagram" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/linkedin/linked%20in%20white.png" width="70" height="100">
+</a>
+
+
+<a href="https://www.instagram.com/abhijeet_81/">
 <img alt="instagram" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/instagram/logo.jpg" width="40" height="25">
 </a>
