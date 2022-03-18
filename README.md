@@ -1,6 +1,7 @@
 ### Hi there, myself SILICON-HAWK aka Abhijeet.A.S  
+</br>
 
-<img align="right" src=https://c.tenor.com/5MVLghCyBp0AAAAd/hola-cat.gif" width="100" />
+<img align="right" alt="a cat" src="https://c.tenor.com/5MVLghCyBp0AAAAd/hola-cat.gif" width ="100px" />
 
 ## I am a student and a future software engineer 
 - :books: I am currently study at vellore institute of technology.
@@ -75,4 +76,5 @@
 <br />
 
 <b> before you leave here is a cat </b>
-<img alt="a cat" src="https://c.tenor.com/5MVLghCyBp0AAAAd/hola-cat.gif" width ="50px" />
+
+<img alt="catvibe" src="https://c.tenor.com/w_5Q79dNCh8AAAAi/cat-vibe.gif" width ="100px" />
