@@ -14,3 +14,6 @@
 [![linkedIN]<img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/linkedin/linked%20in%20white.png" width ="30" height="30"](https://www.linkedin.com/in/abhijeet-a-s-0b2218221/)
 
 [![instagram](https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/instagram/logo.jpg)](https://www.instagram.com/abhijeet_81/)
+<a href="https://www.qries.com/">
+<img alt="instagram" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/instagram/logo.jpg" width="40" height="25">
+</a>
