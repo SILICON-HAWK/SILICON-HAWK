@@ -37,7 +37,7 @@
 <img alt="discord" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/discord/discord%20darkmode%20icon.jpg" width="50" height="">
 </a>
 
-<a href="https://www.linkedin.com/in/abhijeet-a-s-0b2218221/" target="_blank">
+<a target="_blank" href="https://www.linkedin.com/in/abhijeet-a-s-0b2218221/">
 <img alt="instagram" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/linkedin/linked%20in%20white.png" width="50" height="">
 </a>
 
