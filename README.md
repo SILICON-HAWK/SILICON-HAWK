@@ -9,6 +9,8 @@
 ## Connect with me
 <img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/gamil/gmail-icon-logo-black-and-white.png">
 
-[![discord](https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/discord/discord%20darkmode%20icon.jpg)](https://discordapp.com/users/597474801992335400)
-[![linkedIN](https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/linkedin/linked%20in%20white.png)](https://www.linkedin.com/in/abhijeet-a-s-0b2218221/)
-[![instagram](https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/instagram/logo.jpg)]((https://www.instagram.com/abhijeet_81/)
+[![discord](https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/discord/discord%20darkmode%20icon.jpg =30x30)](https://discordapp.com/users/597474801992335400)
+
+[![linkedIN](https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/linkedin/linked%20in%20white.png =30x30)](https://www.linkedin.com/in/abhijeet-a-s-0b2218221/)
+
+[![instagram](https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/instagram/logo.jpg = 30x30)](https://www.instagram.com/abhijeet_81/)
