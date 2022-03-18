@@ -19,10 +19,18 @@
 ## Connect with me
 
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 <a href="https://github.com/SILICON-HAWK">
-<img alt="" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/gamil/gmail-icon-logo-black-and-white.png" width="60" height="">
+<img alt="gmail" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/gamil/gmail-icon-logo-black-and-white.png" width="60" height="">
+<b> abhijeet8120@gmail.com </b>
 </a>
+</br>
 
 <a href="https://discordapp.com/users/597474801992335400">
 <img alt="discord" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/discord/discord%20darkmode%20icon.jpg" width="50" height="">
