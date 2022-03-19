@@ -3,7 +3,7 @@
 <img align="right" alt="a cat" src="https://c.tenor.com/5MVLghCyBp0AAAAd/hola-cat.gif" width ="200px" />
 
 ## I am a student and a future software engineer 
-- :books: I am currently study at vellore institute of technology.
+- :books: I currently study at vellore institute of technology.
 - :keyboard: I am currently learning c++ , javascript and react
 - 🎮 I also play games 
 - <img src = "https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/openSourceInitiative/opensourceinitiative-darkmode.png" width="50" height =""> open source is the way
