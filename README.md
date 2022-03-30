@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg-silicon.herokuapp.com//??HI+there+myself+ABHIJEET+A+S+aka+SILICON-HAWK;Welcome+to+my+repository">
+<img src="https://readme-typing-svg-silicon.herokuapp.com/??HI+there+myself+ABHIJEET+A+S+aka+SILICON-HAWK;Welcome+to+my+repository">
 </p>
 <img align="right" alt="a cat" src="https://c.tenor.com/5MVLghCyBp0AAAAd/hola-cat.gif" width ="200px" />
 
