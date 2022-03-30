@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/??HI+there+myself+ABHIJEET+A+S+aka+SILICON-HAWK;Welcome+to+my+repository)](https://git.io/typing-svg)
-
+<p align="center">
+<img src="https://git.heroku.com/readme-typing-svg-silicon.git/??HI+there+myself+ABHIJEET+A+S+aka+SILICON-HAWK;Welcome+to+my+repository">
+</p>
 <img align="right" alt="a cat" src="https://c.tenor.com/5MVLghCyBp0AAAAd/hola-cat.gif" width ="200px" />
 
 ## I am a student and a future software engineer 
