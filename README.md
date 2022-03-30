@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://readme-typing-svg-silicon.herokuapp.com/?HI+there+myself+ABHIJEET+A+S+aka+SILICON-HAWK;Welcome+to+my+repository!;">
+<img src="https://readme-typing-svg-silicon.herokuapp.com?size=35&duration=3000&color=BF00FF&multiline=true&width=600&height=70&lines=HI+there+myself+ABHIJEET+A+S+aka+SILICON-HAWK+;Good+to+see+you+Hope+you+will+like+my+repository">
 </p>
+[![Typing SVG](https://readme-typing-svg-silicon.herokuapp.com?size=35&duration=3000&color=BF00FF&multiline=true&width=600&height=70&lines=HI+there+myself+ABHIJEET+A+S+aka+SILICON-HAWK+;Good+to+see+you+Hope+you+will+like+my+repository)](https://git.io/typing-svg)
 <img align="right" alt="a cat" src="https://c.tenor.com/5MVLghCyBp0AAAAd/hola-cat.gif" width ="200px" />
 
 ## I am a student and a future software engineer 
