@@ -3,6 +3,9 @@
 </p>
 <img align="right" alt="a cat" src="https://c.tenor.com/5MVLghCyBp0AAAAd/hola-cat.gif" width ="200px" />
 
+
+<img align="center" alt="graph" src="https://silicon-readme-activity-graph.herokuapp.com/graph?username=SILICON-HAWK">
+
 ## I am a student and a future software engineer 
 - :books: I currently study at vellore institute of technology.
 - :keyboard: I am currently learning c++ , javascript and react
@@ -15,8 +18,6 @@
 ## MY GITHUB STATS
 
 <img align="left" alt="SILICON-HAWK github stats" src="https://github-readme-stats.vercel.app/api?username=SILICON-HAWK& show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-<img align="center" alt="stat graph" src="https://silicon-readme-activity-graph.herokuapp.com/graph?username=SILICON-HAWK&theme=react-dark">
 
 <img align="center" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SILICON-HAWK&theme=dark">
 
