@@ -15,7 +15,7 @@
 
 ## MY GITHUB STATS
 
-[![silicons graph](https://activity-graph.herokuapp.com/graph?username=SILICON-HAWK&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![silicons graph](https://activity-graph.herokuapp.com/graph?username=SILICON-HAWK&theme=dracula&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img align="center" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SILICON-HAWK&theme=dark">
 
