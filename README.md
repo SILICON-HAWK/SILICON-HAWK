@@ -16,8 +16,6 @@
 
 <img align="left" alt="SILICON-HAWK github stats" src="https://github-readme-stats.vercel.app/api?username=SILICON-HAWK& show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<img align="center" alt="SILICON-HAWK github stats" src="https://github-readme-stats.vercel.app/api?username=SILICON-HAWK& show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 <img align="center" alt="stat graph" src="https://silicon-readme-activity-graph.herokuapp.com/graph?username=SILICON-HAWK&theme=react-dark">
 
 </br>
