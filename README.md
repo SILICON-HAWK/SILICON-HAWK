@@ -19,14 +19,6 @@
 <img align="center" alt="stat graph" src="https://silicon-readme-activity-graph.herokuapp.com/graph?username=SILICON-HAWK&theme=react-dark">
 
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ## Connect with me
 
