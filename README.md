@@ -18,6 +18,7 @@
 
 <img align="center" alt="stat graph" src="https://silicon-readme-activity-graph.herokuapp.com/graph?username=SILICON-HAWK&theme=react-dark">
 
+<img align="left" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SILICON-HAWK&theme=dark">
 </br>
 
 ## Connect with me
