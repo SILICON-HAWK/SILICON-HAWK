@@ -24,20 +24,20 @@
 ## Connect with me
 
 <a href="https://github.com/SILICON-HAWK">
-<img alt="gmail" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/gamil/gmail-icon-logo-black-and-white.png" width="60" height="">
+<!-- <img alt="gmail" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/gamil/gmail-icon-logo-black-and-white.png" width="60" height="">
 <b> abhijeet8120@gmail.com </b>
-</a>
-</br>
+</a> -->
+</br> 
 
 <a href="https://discordapp.com/users/597474801992335400">
 <img alt="discord" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/discord/discord%20darkmode%20icon.jpg" width="50" height="">
 </a>
 
-<a target="_blank" href="https://www.linkedin.com/in/abhijeet-a-s-0b2218221/">
+<!-- <a target="_blank" href="https://www.linkedin.com/in/abhijeet-a-s-0b2218221/">
 <img alt="linkedIn" src="https://github.com/SILICON-HAWK/SILICON-HAWK/blob/main/imageSource/linkedin/linked%20in%20white.png" width="50" height="">
-</a>
+</a> -->
 
-<a href="https://www.instagram.com/abhijeet_81/">
+<a href="https://www.instagram.com/silicon__hawk/">
 <img alt="instagram" src="https://i.pinimg.com/originals/e3/8f/af/e38fafda2ddb4d5ba66b96a0398b9b5f.png" width="60" height="">
 </a>
 
