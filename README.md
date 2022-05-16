@@ -65,7 +65,7 @@
 <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
+<br>
 <img align="left" alt="windows" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg">
   
 <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/SILICON-HAWK/SILICON-HAWK/main/imageSource/linux%20logo.png" style="padding-right:10px;" />
