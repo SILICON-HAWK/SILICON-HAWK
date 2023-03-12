@@ -1,6 +1,6 @@
 <div>
 <div align="center">
-<img src="https://readme-typing-svg-silicon.herokuapp.com?duration=3000&color=BF00FF&multiline=true&width=600&height=60&lines=HI+there+myself+ABHIJEET+A+S+aka+SILICON-HAWK+;Good+to+see+you+Hope+you+will+like+my+repository">
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=BF00FF&multiline=true&width=600&height=60&lines=HI+there+myself+ABHIJEET+A+S+aka+SILICON-HAWK+;Good+to+see+you+Hope+you+will+like+my+repository">
 </div>
 <div align="right">
 <img align="right" alt="a cat" src="https://c.tenor.com/5MVLghCyBp0AAAAd/hola-cat.gif" height ="170px" />
